@@ -3,7 +3,7 @@
 > 한국 주식 매매법의 데이터 검증 결과와, AI(Claude)가 고른 종목의 가상매매 실험 기록. 모든 기록은 가상매매·과거 데이터 검증이며 투자 권유가 아니다.
 
 ## 실험
-- [AI 가상매매 실험 기록](https://km81jik-gif.github.io/ai-trading/): 사전 고정 규칙, 거래별 수익과 시장·업종 대비 분해, 판단 메모. 2026-10-07 기준.
+- [AI 가상매매 실험 기록](https://km81jik-gif.github.io/ai-trading/): 사전 고정 규칙, 거래별 수익과 시장·업종 대비 분해, 판단 메모. 2026-10-08 기준.
 - [전체 거래 CSV](https://km81jik-gif.github.io/data/ai_trades.csv)
 - [판단일 기록 CSV](https://km81jik-gif.github.io/data/ai_decisions.csv)
 
