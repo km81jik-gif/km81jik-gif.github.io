@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://km81jik-gif.github.io/sitemap.xml
